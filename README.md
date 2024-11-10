@@ -41,7 +41,7 @@ The dashboard includes:
 ## Getting Started
 
 1. **Prerequisites**: Microsoft Excel.
-2. **Dataset**: The bike buyers dataset (included in the project repository).
+2. **Dataset**: The bike buyers <a href="https://github.com/poornima1707/Bike-Buyers-Analysis-in-Excel/blob/main/Excel%20bike%20buyer%20Project%20Dataset.xlsx">dataset </a>  
 
 ## Key Learnings
 
